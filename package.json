@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,6 +13,13 @@
     "express": "^5.1.0"
   },
   "devDependencies": {},
-  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavish28081997/aws-nodejs-deploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kavish28081997/aws-nodejs-deploy/issues"
+  },
+  "homepage": "https://github.com/kavish28081997/aws-nodejs-deploy#readme",
   "description": ""
 }
