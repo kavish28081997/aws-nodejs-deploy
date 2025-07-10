@@ -8,6 +8,6 @@ app.get('/api/get',(req,res) => {
 
 
 
-app.listen(8000,(req,res) =>{
+app.listen(8000,() =>{
     console.log("listening to 8000");
 })
