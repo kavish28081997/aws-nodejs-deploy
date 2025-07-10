@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/api/get',(req,res) => {
-     res.send({message:"hello back to nodejs code  we are deploying this hello hello please listen"})
+     res.send({message:"there are some changes commited in this code please read it carefully"})
 })
 
 
