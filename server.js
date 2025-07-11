@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/api/get',(req,res) => {
-     res.send({message:"there are some changes commited in this code please read it carefully"})
+     res.send({message:"hello everyone i am here please listen me"})
 })
 
 
