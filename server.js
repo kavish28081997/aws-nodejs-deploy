@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/api/get',(req,res) => {
-     res.send({message:"hello everyone i am here please listen me i want to say something to you this is the nodejs cicd pipeline which built in aws ec2 server"})
+     res.send({message:"hello everyone i am here please listen me i want to say something to you this is the nodejs cicd pipeline which built in aws ec2 server please add this in new file"})
 })
 
 
